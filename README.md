@@ -10,7 +10,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sunebelle/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have two cats named Fendi and Louis. They are both big cuddlers.
-- 👍 Recent project/s: [Sippin'](https://sippincocktails.herokuapp.com/)
+- 👍 Recent project/s: [Sippin'](https://sippincocktails.herokuapp.com/) - A simple web app that displays recipe and related to Twitter quotes based on the search keyword. 
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellesune&theme=buefy" />
