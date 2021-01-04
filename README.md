@@ -3,7 +3,7 @@
 <!-- **bellesune/bellesune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning Flask in Python and React
+- 🌱 I’m currently learning React and Node.js
 - 👯 I’m looking to collaborate on JavaScript 
 - 🤔 I’m looking for help with UI/UX design
 - 💬 Ask me about my journey in tech
