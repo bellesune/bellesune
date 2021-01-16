@@ -1,11 +1,6 @@
+<p align="center">
 <img src="https://github.com/bellesune/portfolio/blob/master/static/github-banner-b2.jpg" width="400px" height="300px">
-<style>
-  img{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
+</p>
 
 ### Hi there 👋
 
