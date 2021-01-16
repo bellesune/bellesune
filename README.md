@@ -1,4 +1,4 @@
-<img src="https://github.com/bellesune/portfolio/blob/master/static/github-banner-b2.jpg" width="48">
+<img src="https://github.com/bellesune/portfolio/blob/master/static/github-banner-b2.jpg" width="200px">
 
 ### Hi there 👋
 
