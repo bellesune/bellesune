@@ -2,7 +2,7 @@
 <img src="https://github.com/bellesune/portfolio/blob/master/static/github-banner-b2.jpg" width="400px" height="300px">
 </p>
 
-### Hi there 👋
+### Meet Belle 👋
 
 <!-- **bellesune/bellesune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
