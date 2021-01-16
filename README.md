@@ -1,3 +1,5 @@
+![alt text](https://github.com/bellesune/portfolio/blob/master/static/github-banner-b2.jpg)
+
 ### Hi there 👋
 
 <!-- **bellesune/bellesune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
